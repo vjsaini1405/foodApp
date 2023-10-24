@@ -1,0 +1,12 @@
+{
+  "header": {},
+  "button": {
+    "singIn": "साइनइन",
+    "singUp": "साइनअप"
+  },
+  "language":{
+    "english":"अंग्रेज़ी",
+    "hindi":"हिंदी",
+    "marathi":"मराठी"
+  }
+}
